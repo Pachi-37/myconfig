@@ -1,0 +1,11 @@
+*.swp
+
+
+
+view/
+.DS_Store
+plugged/
+sessions/
+tmp/
+.netrwhist
+
